@@ -1,1 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
+body {
+    background: orange;
+    color: brown;
+    font-family: "Indie Flower";
+}
+
+h1 {
+    color:beige;
+    text-align:center;
+    font-size:50px;
+}
+
+h2 {
+    color:maroon;
+    font-size: 30px;
+}
+
+h3 {
+    font-weight:900;
+    font-size:20px;
+}
+
+.recipe-section {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
