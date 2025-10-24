@@ -15,6 +15,9 @@ h1 {
 h2 {
     color:maroon;
     font-size: 30px;
+    text-align: center;
+    border-bottom: 4px dashed black;
+    border-top: 4px dashed black
 }
 
 h3 {
@@ -23,7 +26,21 @@ h3 {
 }
 
 .recipe-section {
-    border: 2px solid black;
+    border: 3px solid black;
     padding: 10px;
     margin: 10px;
+    border-radius: 40px;
+    background: rgba(255, 255, 0, 0.362);
+}
+
+.links {
+    border: solid black;
+    border-radius: 20px;
+    color: black;
+}
+
+img {
+    border: solid black;
+    border-radius: 10px;
+    
 }
